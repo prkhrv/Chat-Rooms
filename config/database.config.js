@@ -1,3 +1,3 @@
 module.exports = {
-    url: 'mongodb://localhost:27017/Chatdb'
+    url: 'mongodb://prakhar:newpa55word@ds221155.mlab.com:21155/heroku_xt0m8glt'
 }
