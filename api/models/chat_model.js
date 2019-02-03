@@ -22,10 +22,6 @@ room_limit:{
 allowed_users_id:[
       {type: Schema.Types.ObjectId, ref: 'ChatUser'}
     ],
-check:{
-  type:[String],
-  required:"file",
-}
 
 });
 module.exports = mongoose.model('Chat',ChatSchema);
