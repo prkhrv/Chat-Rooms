@@ -13,7 +13,7 @@
     "nodemon": "^1.18.9"
   },
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "image-downloader": "^3.4.2",
     "mongoose": "^5.7.5",
     "mongoose-type-url": "^1.0.5",
